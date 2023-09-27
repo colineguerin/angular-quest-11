@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "image": "sexonthebeach.jpg"
+    },
+    {
+        "name": "Margarita",
+        "price": 13,
+        "image": "margarita.jpg"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "image": "martini.jpg"
+    }
+]
